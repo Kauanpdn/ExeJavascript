@@ -18,3 +18,6 @@ function varificandoPalidromo(palavra){
 
 varificandoPalidromo("arara")
 varificandoPalidromo("gato")
+
+
+//concluido

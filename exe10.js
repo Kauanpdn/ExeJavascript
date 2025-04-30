@@ -19,3 +19,6 @@ function calmedia (nota1,nota2){
 calmedia(9,8)
 calmedia(4,10)
 calmedia(2,8)
+
+
+//concluido

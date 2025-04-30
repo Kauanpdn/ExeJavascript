@@ -25,3 +25,6 @@ function calculadoraImc(peso,altura){
 calculadoraImc(60,1.7)
 calculadoraImc(80,1.7)
 calculadoraImc(90,1.7)
+
+
+//concluido

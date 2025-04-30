@@ -16,3 +16,7 @@ function veficandoNumero(n1,n2,n3){
 veficandoNumero(1,2,3)
 veficandoNumero(10,100,100)
 veficandoNumero(30,40,10)
+
+
+
+//concluido

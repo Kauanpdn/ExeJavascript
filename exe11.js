@@ -17,3 +17,7 @@ function validacaoVoto(idade){
 validacaoVoto(18)
 validacaoVoto(55)
 validacaoVoto(16)
+
+
+
+//concluido

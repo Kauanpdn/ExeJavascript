@@ -22,3 +22,6 @@ function verificandoMedia (n1,n2,n3,n4){
 verificandoMedia(7,7,7,6)
 verificandoMedia(8,9,10,10)
 verificandoMedia(3,2,1,3)
+
+
+//concluido

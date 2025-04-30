@@ -14,3 +14,6 @@ let b = false ;
 console.log("AND", a && b);
 console.log("OR", a || b);
 console.log("NOT", !a);
+
+
+//concluido

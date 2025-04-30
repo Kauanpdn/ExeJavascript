@@ -18,3 +18,5 @@ if(n % 2 == 0){
 verficando(12)
 verficando(3)
 
+
+//concluido
